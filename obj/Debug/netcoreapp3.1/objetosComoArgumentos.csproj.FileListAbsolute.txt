@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\objetosComoArgumentos\bin\Debug\netcoreapp3.1\objetosComoArgumentos.exe
+C:\Users\HOME\Documents\objetosComoArgumentos\bin\Debug\netcoreapp3.1\objetosComoArgumentos.deps.json
+C:\Users\HOME\Documents\objetosComoArgumentos\bin\Debug\netcoreapp3.1\objetosComoArgumentos.runtimeconfig.json
+C:\Users\HOME\Documents\objetosComoArgumentos\bin\Debug\netcoreapp3.1\objetosComoArgumentos.runtimeconfig.dev.json
+C:\Users\HOME\Documents\objetosComoArgumentos\bin\Debug\netcoreapp3.1\objetosComoArgumentos.dll
+C:\Users\HOME\Documents\objetosComoArgumentos\bin\Debug\netcoreapp3.1\objetosComoArgumentos.pdb
+C:\Users\HOME\Documents\objetosComoArgumentos\obj\Debug\netcoreapp3.1\objetosComoArgumentos.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\objetosComoArgumentos\obj\Debug\netcoreapp3.1\objetosComoArgumentos.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\objetosComoArgumentos\obj\Debug\netcoreapp3.1\objetosComoArgumentos.AssemblyInfo.cs
+C:\Users\HOME\Documents\objetosComoArgumentos\obj\Debug\netcoreapp3.1\objetosComoArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\objetosComoArgumentos\obj\Debug\netcoreapp3.1\objetosComoArgumentos.dll
+C:\Users\HOME\Documents\objetosComoArgumentos\obj\Debug\netcoreapp3.1\objetosComoArgumentos.pdb
+C:\Users\HOME\Documents\objetosComoArgumentos\obj\Debug\netcoreapp3.1\objetosComoArgumentos.genruntimeconfig.cache
